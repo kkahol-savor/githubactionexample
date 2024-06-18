@@ -9,4 +9,5 @@ git remote add origin https://github.com/kanav-mirakalous/githubactionexample.gi
 Now it is linked to your code on github repo
 next type the command 
 git push --set-upstream origin master
-now it should be pushed to the github website
+now it should be pushed to the github website click on actions 
+this code would be rejected due to a low pylint score
